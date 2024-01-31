@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Simplificando Trámites Legales",
+    "paragraph": "La Última y Mejor Solución para Simplificar y Agilizar tus Trámites Legales desde donde quieras que estes."
+  },
+  "About": {
+    "paragraph": "Facilitar y acelerar los procesos legales, brindando a nuestros usuarios la comodidad de realizar trámites desde la comodidad de sus hogares.",
+    "Why": [
+      "Experiencia sólida ",
+      "Soluciones innovadoras",
+      "Confiable y seguro",
+      "Calidad garantizada"
+    ],
+    "Why2": [
+      "Eficiencia probada",
+      "Enfoque personalizado",
+      "Integración IA",
+      "Compromiso total"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-signature",
+      "name": "Firma Digital Segura",
+      "text": "Agiliza la firma de documentos legales con nuestra plataforma de firma digital, garantizando la seguridad y validez de tus trámites."
+    },
+    {
+      "icon": "fa fa-comments",
+      "name": "Consulta Jurídica Online",
+      "text": "Accede a asesoría legal en tiempo real, conectándote con nuestros expertos para resolver dudas y obtener orientación jurídica."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "name": "Seguimiento de Trámites",
+      "text": "Mantente informado sobre el estado de tus procesos notariales mediante notificaciones y actualizaciones en tiempo real."
+    },
+    {
+      "icon": "fa fa-archive",
+      "name": "Archivado Digital Eficiente",
+      "text": "Almacena de manera segura y accesible todos tus documentos legales digitalizados, eliminando la necesidad de papeleo físico."
+    },
+    {
+      "icon": "fa fa-file-alt",
+      "name": "Generación de Documentos Automatizada",
+      "text": "Crea documentos notariales de manera rápida y precisa utilizando nuestras herramientas de generación automatizada."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Comunidad Legal Interactiva",
+      "text": "Únete a nuestra comunidad, comparte experiencias con otros usuarios, y accede a recursos jurídicos exclusivos para fortalecer tu conocimiento legal."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Notaría En Línea me ahorró tiempo y esfuerzo. Firmé documentos importantes sin salir de casa. ¡Excelente servicio!\"",
+      "name": "Pedro M."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"La asesoría legal online fue clave para resolver mis dudas. Rápido, eficiente y muy útil. ¡Recomiendo totalmente!\"",
+      "name": "Carlos M."
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Nunca fue tan fácil seguir el progreso de mis trámites. Notificaciones instantáneas y total transparencia. Gracias.\"",
+      "name": "Juan C."
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Digitalizar y archivar mis documentos legales nunca fue tan sencillo. Adiós al papeleo, hola a la eficiencia.\"",
+      "name": "Maria L."
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"La generación automática de documentos es un salvavidas. Ahorro tiempo y obtengo resultados precisos. ¡Impresionante!\"",
+      "name": "Carlos A."
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"La comunidad legal es un plus. Compartir experiencias con otros usuarios me hizo sentir respaldado. ¡Notaría En Línea es mi elección!.\"",
+      "name": "Monica  M."
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Juan Zavala",
+      "job": "Notario Senior"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Roberto Gonzalez",
+      "job": "Diseñador Senior"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Maria Laguna",
+      "job": "Desarrolladora Senior"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Hinojosa",
+      "job": "Scrum Master"
+    }
+  ],
+  "Contact": {
+    "address": "San Petersburgo 6351 - Las Condes ",
+    "phone": "+56 998 998 988",
+    "email": "contacto@legaliza.cl",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicación",
+      "text": " Facilitamos la comunicación ágil y efectiva entre usuarios y notaría."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Notificaciones",
+      "text": "Recibe notificaciones instantáneas para estar al tanto de tus trámites y documentos."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Comunidad",
+      "text": "Únete a nuestra comunidad legal para compartir experiencias y obtener apoyo."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "IA",
+      "text": "Incorporamos tecnología IA para optimizar procesos notariales y mejorar la experiencia del usuario."
+    }
+  ]
+}
